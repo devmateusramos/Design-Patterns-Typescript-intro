@@ -1,0 +1,25 @@
+{
+  "name": "design-patterns-typescript-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node-dev --respawn --transpile-only ./src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devmateusramos/Design-Patterns-Typescript-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devmateusramos/Design-Patterns-Typescript-intro/issues"
+  },
+  "homepage": "https://github.com/devmateusramos/Design-Patterns-Typescript-intro#readme",
+  "devDependencies": {
+    "@types/node": "^16.11.10",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.5.2"
+  }
+}
